@@ -14,7 +14,7 @@ const logger = (output) => {
     console.log(output);
 }
 
-
+tho
 export const appName = "ES6 Review";
 
 /*
